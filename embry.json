@@ -1,0 +1,17 @@
+[
+    {
+        "name": "South Tempe YMCA",
+        "dept_id": 113,
+        "appt_type_id": 2507
+    },
+    {
+        "name": "Kiwanis Park",
+        "dept_id": 63,
+        "appt_type_id": 1447
+    },
+    {
+        "name": "South Price Road",
+        "dept_id": 94,
+        "appt_type_id": 2032
+    }
+]
